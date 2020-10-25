@@ -4,9 +4,9 @@ you can download all versions on the [github reposetory](https://github.com/emer
 
 # lastest release
 
-the lastest release of bashos is avalable here
-
+the lastest release of bashos is avalable here. 
+  
 [Release v 0.0.1]() (download comming soon)
 
-or, use the download link:
+or, use the download link:  
 ```(comming soon)```
