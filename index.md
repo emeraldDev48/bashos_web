@@ -1,8 +1,8 @@
-##Download bashos all versions
+## Download bashos all versions
 
 you can download all versions on the [github reposetory](https://github.com/emeraldDev48/)
 
-#lastest release
+# lastest release
 
 the lastest release of bashos is avalable here
 
